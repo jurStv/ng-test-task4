@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  max-width: 1024px;
+  margin: 10px auto;
+}
+
+td:first-of-type,
+th:first-of-type {
+  padding-right: 24px;
+}
+
+.offset {
+  margin: 10px;
+}
+.field-offset {
+  margin: 10px;
+}

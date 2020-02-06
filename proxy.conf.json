@@ -1,0 +1,8 @@
+{
+  "/api/users": {
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "target": "http://jsteam.sibedge.com/raw/task/users.json"
+  }
+}
